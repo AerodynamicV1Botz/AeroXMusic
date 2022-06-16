@@ -1,7 +1,9 @@
-### A powerful bot that can play music on telegram group's voice chat with some useful features !!
+🎵AeroXMusic~🇮🇳
+
+# A powerful bot that can play music on telegram group's voice chat with some useful features !!
 
 <p align="center">
-  <img src="https://telegra.ph/file/00a389a0c21a632ee29aa.jpg">
+  <img src="https://telegra.ph/Aero-Music-Player-06-14">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -52,14 +54,16 @@
 
 ## Contact & Support
 
-<a href="https://t.me/M8N_SUPPORT"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
-<a href="https://t.me/M8N_OFFICIAL"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
+<a href="https://t.me/AerodynamicV1_Promotion"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
+<a href="https://t.me/AerodynamicV1_UPDATE"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
 
 ## License
 
 Distributed under the [GNU General Public License v3.0 License](https://github.com/AerodynamicV1Botz/AeroXMusic/blob/main/LICENSE) See `LICENSE.md` for more information.
 
 ## Credits
+
+<a href="https://t.me/AerodynamicV1_OFFICIAL"><img src="https://img.shields.io/badge/Join-Updates%20Channel-green.svg?style=for-the-badge&logo=Telegram"></a><br>
 
 </details>
 
