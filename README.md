@@ -3,7 +3,7 @@
 # A powerful bot that can play music on telegram group's voice chat with some useful features !!
 
 <p align="center">
-  <img src="https://telegra.ph/Aero-Music-Player-06-14">
+  <img src="https://telegra.ph/Aero-Music-Player-06-14.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
