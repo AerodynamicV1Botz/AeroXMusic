@@ -1,7 +1,7 @@
 {
-    "name": "M8N Music Bot",
+    "name": "Aero Music Player",
     "description": "Powerful telegram's group voice chat music player. Run on python3 !!",
-    "logo": "https://telegra.ph/file/22265bda0d1d8c2b1978a.jpg",
+    "logo": "https://telegra.ph/Aero-Music-Player-06-14",
     "keywords": ["music", "voice chat", "telegram"],
     "repository": "https://github.com/AerodynamicV1Botz/AeroXMusic",
     "stack": "container",
@@ -43,17 +43,17 @@
         "SUPPORT": {
             "description": "Fill with your support group username without @",
             "required": true,
-            "value": "M8N_SUPPORT"
+            "value": "AerodynamicV1_Promotion"
         },
         "UPDATE": {
             "description": "Fill with your Update Channel username without @",
             "required": true,
-            "value": "M8N_OFFICIAL"
+            "value": "AerodynamicV1_UPDATE"
         },
         "OWNER_USERNAME": {
             "description": "Fill with the Bot Owner Username without @",
             "required": true,
-            "value": "Its_romeoo"
+            "value": "AerodynamicV1_OFFICIAL"
         },
         "BOT_NAME": {
             "description": "fill with telegram name of bot",
@@ -71,8 +71,8 @@
             "value": ""
         },
         "START_PIC": {
-            "description": "Enter the telegraph link of an image or contact @M8N_SUPPORT",
-            "value": "https://telegra.ph/file/e3bbcfcf96e85553aff4a.jpg",
+            "description": "Enter the telegraph link of an image or contact @AerodynamicV1_UPDATE",
+            "value": "https://telegra.ph/Aero-Music-Player-06-14",
             "required": true
         },
         "API_ID": {
