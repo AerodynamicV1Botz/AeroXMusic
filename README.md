@@ -63,7 +63,7 @@ Distributed under the [GNU General Public License v3.0 License](https://github.c
 
 ## Credits
 
-<a href="https://t.me/AerodynamicV1_OFFICIAL"><img src="https://img.shields.io/badge/Join-Updates%20Channel-green.svg?style=for-the-badge&logo=Telegram"></a><br>
+<a href="https://t.me/AerodynamicV1_OFFICIAL"><img src="https://img.shields.io/badge/👑Main Owner👑%20Channel-green.svg?style=for-the-badge&logo=Telegram"></a><br>
 
 </details>
 
